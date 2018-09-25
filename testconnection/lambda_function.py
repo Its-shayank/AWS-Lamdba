@@ -1,3 +1,4 @@
+# This file is used for handling lambda function.
 from __future__ import print_function
 
 import json
